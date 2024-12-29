@@ -1,0 +1,21 @@
+### README Description for Your Project
+
+**Project Title:** US Supermarket Dashboard with Time Series Analysis  
+
+**Description:**  
+This project focuses on creating an interactive and insightful dashboard for a US supermarket dataset. The dashboard highlights key metrics and trends while incorporating a detailed time series analysis to track sales performance over time. The project demonstrates data cleaning, transformation, and advanced analytics using DAX queries.
+
+**Key Features:**  
+- **Time Series Analysis:** Visualized sales trends and seasonal patterns.  
+- **Data Cleaning:** Addressed missing values, inconsistencies, and data standardization to ensure accuracy.  
+- **DAX Queries:** Implemented calculated measures and custom formulas to enrich insights.  
+- **Interactive Dashboard:** Created user-friendly visualizations for better understanding and decision-making.  
+
+ 
+
+**Learning Outcomes:**  
+- Mastered DAX query implementation for dynamic calculations.  
+- Enhanced skills in data cleaning and preparation for analysis.  
+- Gained expertise in designing impactful dashboards with actionable insights.  
+
+This project showcases advanced data analysis and visualization techniques, contributing to a deep understanding of supermarket sales data.
